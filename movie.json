@@ -1,0 +1,31 @@
+this is loaded
+Spotify Keys: 903cb036eb6e4c96b208a055f457e860
+Twitter Keys: uhXvWmOJ4i82tjDpuxf0EePF2
+Brave+Heart
+http://www.omdbapi.com/?t=Brave+Heart&y=&plot=short&apikey=trilogy
+{ Title: 'Brave Heart',
+  Year: '2005',
+  Rated: 'N/A',
+  Released: 'N/A',
+  Runtime: 'N/A',
+  Genre: 'Drama',
+  Director: 'John Uche',
+  Writer: 'N/A',
+  Actors: 'Emma Ayalogu, Emma Edokpay, Omotola Jalade-Ekeinde, Zack Orji',
+  Plot: 'N/A',
+  Language: 'English',
+  Country: 'Nigeria',
+  Awards: 'N/A',
+  Poster: 'N/A',
+  Ratings: [ { Source: 'Internet Movie Database', Value: '8.1/10' } ],
+  Metascore: 'N/A',
+  imdbRating: '8.1',
+  imdbVotes: '69',
+  imdbID: 'tt0786945',
+  Type: 'movie',
+  DVD: 'N/A',
+  BoxOffice: 'N/A',
+  Production: 'N/A',
+  Website: 'N/A',
+  Response: 'True' }
+The movie's year is: 2005
